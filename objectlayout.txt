@@ -1,0 +1,3 @@
+-Unique Document Container archetype
+-Category Class
+	-attributes such as name,extension,date,etc
